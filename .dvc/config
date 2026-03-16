@@ -1,0 +1,4 @@
+[core]
+    remote = s3remote-aditi
+['remote "s3remote-aditi"']
+    url = s3://aditi-mlops-lab8-2022bcs0200-1773690549
